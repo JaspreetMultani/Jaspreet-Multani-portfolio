@@ -139,7 +139,7 @@ const projects = [
     {
         title: 'Wonderland Text Game',
         description: 'A Java-based interactive fiction game inspired by Alice in Wonderland.',
-        link: 'https://github.com/JaspreetMultani/wonderland-text-adventure',
+        link: 'https://github.com/JaspreetMultani/Wonderland_Game',
         type: 'terminal',
         techStack: ['Java', 'OOP', 'File I/O'],
         status: 'Completed'
