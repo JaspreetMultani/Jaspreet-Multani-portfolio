@@ -130,10 +130,10 @@ const projects = [
     {
         title: 'Typing Racer',
         description: 'A multiplayer typing speed game built with React and Material UI.',
-        link: 'https://github.com/JaspreetMultani/NeonType',
-        demoLink: 'https://neon-type.vercel.app',
-        image: 'https://github.com/JaspreetMultani/NeonType/raw/main/thumbnail.png?raw=true',
-        techStack: ['React', 'Material-UI', 'Socket.io', 'Node.js'],
+        link: 'https://github.com/JaspreetMultani/NeonTypeRacer',
+        demoLink: 'https://neon-type-racer.vercel.app/',
+        image: 'https://github.com/JaspreetMultani/NeonTypeRacer/raw/main/thumbnail.png?raw=true',
+        techStack: ['React', 'Material-UI', 'Firebase', 'Node.js'],
         status: 'Completed'
     },
     {
