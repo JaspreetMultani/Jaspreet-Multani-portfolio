@@ -132,7 +132,7 @@ const projects = [
         description: 'A multiplayer typing speed game built with React and Material UI.',
         link: 'https://github.com/JaspreetMultani/NeonTypeRacer',
         demoLink: 'https://neon-type-racer.vercel.app/',
-        image: 'https://github.com/JaspreetMultani/NeonTypeRacer/raw/main/thumbnail.png?raw=true',
+        image: 'https://github.com/JaspreetMultani/NeonTypeRacer/blob/main/Screenshots_neontype/HomeScreen.png?raw=true',
         techStack: ['React', 'Material-UI', 'Firebase', 'Node.js'],
         status: 'Completed'
     },
@@ -146,11 +146,11 @@ const projects = [
     },
     {
         title: 'Tic Tac Toe',
-        description: 'A classic game with a 2v2 mode built with React and basic CSS.',
+        description: 'A classic game with a 2v2 mode built with React and basic CSS. Working on AI implementation.',
         link: 'https://github.com/JaspreetMultani/TicTacToe',
         image: 'https://github.com/JaspreetMultani/TicTacToe/raw/main/tictactoe.png?raw=true',
         techStack: ['React', 'CSS', 'JavaScript'],
-        status: 'Completed'
+        status: 'In Progress'
     },
 ];
 
