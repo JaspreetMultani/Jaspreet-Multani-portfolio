@@ -129,7 +129,7 @@ const ProjectPlaceholder = ({ type = 'terminal', title }) => {
 const projects = [
     {
         title: 'Typing Racer',
-        description: 'A multiplayer typing speed game built with React and Material UI.',
+        description: 'A multiplayer typing speed game built with React, JavaScript, Firebase and WebSockets, featuring leaderboards and performance tracking.',
         link: 'https://github.com/JaspreetMultani/NeonTypeRacer',
         demoLink: 'https://neon-type-racer.vercel.app/',
         image: 'https://github.com/JaspreetMultani/NeonTypeRacer/blob/main/Screenshots_neontype/HomeScreen.png?raw=true',
