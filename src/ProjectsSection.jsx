@@ -129,7 +129,7 @@ const ProjectPlaceholder = ({ type = 'terminal', title }) => {
 const projects = [
     {
         title: 'Typing Racer',
-        description: 'A multiplayer typing game, featuring sign-in/sign-up, leaderboards and performance tracking.',
+        description: 'A multiplayer type-racer, with sign-in/sign-up, leaderboards and stats.',
         link: 'https://github.com/JaspreetMultani/NeonTypeRacer',
         demoLink: 'https://neon-type-racer.vercel.app/',
         image: 'https://github.com/JaspreetMultani/NeonTypeRacer/blob/main/Screenshots_neontype/HomeScreen.png?raw=true',
