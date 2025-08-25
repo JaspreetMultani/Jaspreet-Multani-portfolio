@@ -128,6 +128,14 @@ const ProjectPlaceholder = ({ type = 'terminal', title }) => {
 
 const projects = [
     {
+        title: 'RouteToDev',
+        description: 'Learning platform with interactive quizzes and payment integration.',
+        link: 'https://github.com/JaspreetMultani/RouteToDevProject',
+        image: '',
+        techStack: ['TypeScript', 'Express', 'PostgreSQL', 'Node.js'],
+        status: 'Completed'
+    },
+    {
         title: 'Typing Racer',
         description: 'A multiplayer type-racer, with sign-in/sign-up, leaderboards and stats.',
         link: 'https://github.com/JaspreetMultani/NeonTypeRacer',
