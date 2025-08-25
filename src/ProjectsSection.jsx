@@ -131,7 +131,7 @@ const projects = [
         title: 'RouteToDev',
         description: 'Learning platform with interactive quizzes and payment integration.',
         link: 'https://github.com/JaspreetMultani/RouteToDevProject',
-        image: '',
+        image: 'https://github.com/JaspreetMultani/RouteToDevProject/raw/main/screenshots/homepage.png',
         techStack: ['TypeScript', 'Express', 'PostgreSQL', 'Node.js'],
         status: 'Completed'
     },
