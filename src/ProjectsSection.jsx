@@ -160,6 +160,14 @@ const projects = [
         techStack: ['React', 'CSS', 'JavaScript'],
         status: 'In Progress'
     },
+    {
+        title: 'YelpCamp',
+        description: 'YelpCamp app featuring visual map and cloud seeded campgrounds.',
+        link: 'https://github.com/JaspreetMultani/YelpCamp',
+        image: 'https://github.com/JaspreetMultani/YelpCamp/raw/main/screenshots/homepage.png',
+        techStack: ['MongoDB', 'Cloudinary', 'Node.js', 'Passport.js'],
+        status: 'Completed'
+    },
 ];
 
 export default function ProjectsSection() {
